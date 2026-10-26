@@ -24,12 +24,13 @@ This project focuses on transitioning traditional paper airplane testing into a 
 ---
 
 ## 💡 Key Engineering Takeaways
-1. **Low Speed Performance:** The $2\%$ camber in NACA 2412 generates significant lift even at ultra-low speeds suitable for lightweight paper gliders.
+
+1. **Low Speed Performance:** The 2% camber in NACA 2412 generates significant lift even at ultra-low speeds suitable for lightweight gliders.
 2. **Stall Behavior:** Smooth polar curves confirm predictable gliding characteristics before reaching critical angles of attack.
 
 ---
 
 ## 🚀 Future Scope
+
 * Comparative analysis with symmetrical profiles (NACA 0012) and flat-plate geometries.
-* Physical flight tests using a elastic launch platform (catapult) to correlate CFD simulations with real-world distance data.
-*
+* Physical flight tests using an elastic launch platform (catapult) to correlate CFD simulations with real-world distance data.
